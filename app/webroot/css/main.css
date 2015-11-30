@@ -1,0 +1,28 @@
+/* CSS Document */
+body{background: url(../img/back.jpg);background-size: cover;}
+.comp_name{text-align:center;color:white; text-shadow:1px 1px #000} 
+.comp_region{text-align:center;color:white;}
+.padding5{padding-left:5px !important;padding-right:5px !important}
+.row .nomargins{margin-left:0;margin-right:0}
+.navbar-form{color:white} 
+.site{padding-top:55px;background:rgba(255,255,255,0.5);}
+.events,.bet_div{background:rgba(255,255,255,0.7);border-radius:5px;padding:5px;padding-bottom: 1px;margin-bottom:5px}
+.events h3,.matches h3,.bet_div h3{text-align:center}
+.match{padding:5px; border-radius:5px; border-bottom:1px solid gray;border-top:1px solid gray;margin:3px}
+.matches{background:rgba(255,255,255,0.7);border-radius:5px;padding:5px;padding-bottom: 1px;margin-bottom:5px}
+.match .teams,.scores{text-align:center}
+.localteam{font-size:2em;color:green}
+.visitorteam{font-size:2em;color:#00009C}
+.scores{font-size:1.7em;font-weight:bold}
+.event{padding:5px;border-bottom:1px solid gray;border-radius:5px}
+.betnow{text-align:right}
+.prev_week, .next_week{color:gray;}
+.prev_week:hover, .next_week:hover{color:black}
+.prev_week{padding-right:15px}
+.next_week{padding-left:15px}
+.bet_div{text-align:center;}
+.match h4{text-align:center}
+.navbar-form a{color:white;cursor:pointer}
+.navbar-form a:hover{color:lightgray;text-decoration:none}
+footer{color:black; font-weight:bold;text-shadow:1px 1px #fff}
+.total_points{text-align:right}
